@@ -15,17 +15,18 @@
     width: 12cm;
     background: url(my.JPG);
     background-position: left;
+    padding-right: 20cm;
     background-size: 400px;
-    height: 16cm;
+    height: 19cm;
     background-repeat: no-repeat;
     
 }
 .content {
-    width: 600px;
+    width: 500px;
     color: #fff;
     height: 5cm;
     margin: 30px;
-    margin-top: -350px;
+    margin-top: -450px;
     position: center;
     padding-bottom: 1px;
     margin-left: 500px;
@@ -63,9 +64,10 @@
 .cn a{
 
   color: #fff;
-  padding-right: 60px;
+  padding-right: 50px;
 }
 .fa-arrow-circle-right{
+    
 color:#ff7200;
 }
 .nav{
